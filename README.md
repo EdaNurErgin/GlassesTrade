@@ -93,7 +93,9 @@ Veritabanı şu tabloları içerir:
 ## Geliştirici Bilgileri
 
 - **İsim:** [Doğanay Balaban]
-- **E-posta:** [dbalaban1907@gmail.com]
-- **GitHub:** [github.com/DoganayBalaban]
+- **E-posta:** [balabandoganay@gmail.com]
+- **İsim:** [Eda Nur Ergin]
+- **E-posta:** [edaanurrergin@gmail.com]
+
 
 
